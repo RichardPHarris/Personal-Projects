@@ -93,9 +93,9 @@ This will ensure the webhook will work correctly. More info can be found on http
 
 ## Step 4 - Create webhook request
 
-Once you have modified your webhook URL, return to your ifttt page and paste the **full modified link** into the url section. Please ensure not spaces or any other modification then the one noted above are present, else the link will not work.
+Once you have modified your webhook URL, return to your ifttt page and paste the **full modified link** into the url section. Please ensure no spaces or any other modification than the one noted above are present, else the link will not work.
 
-Once created, select "POST" from the Method section and "application/json" from the Content Type section, as shown below:
+Once created, select "POST" from the Method section and "application/json" from the Content Type section, as below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110521556-c97b7e80-8107-11eb-8070-aa5fd2c0aeff.png)
 
@@ -122,7 +122,7 @@ From here you can now test to see if your applet is working correctly. Post a te
 
 ![image](https://user-images.githubusercontent.com/79415636/110522252-9d143200-8108-11eb-950e-31f29cf3d9c6.png)
 
-Once the applet locates the image, It will push a notification to the selected channel on discord as shown below:
+Once the applet locates the image, It will push a notification to the selected channel on discord as below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110522579-f3817080-8108-11eb-96f3-70210129398b.png)
 
