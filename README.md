@@ -137,3 +137,4 @@ Congratulations, Now any time you create an Instagram post, your discord commiun
 
 discord-ifttt.now.sh. (n.d.). discord-ifttt. [online] Available at: https://discord-ifttt.now.sh/ [Accessed 9 Mar. 2021]. 
 
+Discord Developer Portal. (n.d.). Discord Developer Portal — API Docs for Bots and Developers. [online] Available at: https://discord.com/developers/docs/resources/webhook [Accessed 9 Mar. 2021].
