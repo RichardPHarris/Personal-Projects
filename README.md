@@ -15,3 +15,6 @@ To guide a user through the process of sending automated notifications on discor
 
 ### Beneficial but not required
 - Knowledge of json post method
+
+## Set 1 - Create webhook on Discord server
+The first step will be creating the webhood on our discord server. This will be the endpoint of our json post requrest and will alow us to send commands to our discord server that will facilitate an automated post in the relevent test channels. 
