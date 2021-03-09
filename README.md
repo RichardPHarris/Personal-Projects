@@ -40,5 +40,19 @@ Please log into your ifttt account - from here, you can press "Create" on the to
 
 ![image](https://user-images.githubusercontent.com/79415636/110518478-0ba2c100-8104-11eb-973c-4ac35bf802f5.png)
 
+You will be presented with the below screen: 
+
+![image](https://user-images.githubusercontent.com/79415636/110518842-89ff6300-8104-11eb-935f-75c4fb4e5c2c.png)
+
+From this screen, select "If This". You will be presented with the below: 
+
+![image](https://user-images.githubusercontent.com/79415636/110518902-a13e5080-8104-11eb-983e-1136540f44f4.png)
+
+Please such for "instagram" in the search service field, as shown below:
+
+![image](https://user-images.githubusercontent.com/79415636/110518993-badf9800-8104-11eb-8f45-898715b19d74.png)
+
+
+
 
 
