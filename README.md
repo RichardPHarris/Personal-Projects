@@ -24,11 +24,11 @@ To create a webhook, join the relevent server and navagate to the server setting
 
 ![image](https://user-images.githubusercontent.com/79415636/110516955-22481880-8102-11eb-8d07-c7bd9476b8dd.png)
 
-On the left of the screen you will see a list of server setting catagories, select "Integrations" from this screen click "New Webhook" and the below will be presented: 
+On the left of the screen you will see a list of server setting catagories, select "Integrations" from this screen then click "New Webhook" and the below will be presented: 
 
 ![image](https://user-images.githubusercontent.com/79415636/110517144-61766980-8102-11eb-9290-d53e23ed0023.png)
 
-This is the profile configuration for the profile that will post the anouncment of a new Instagram post. You may edit the profile name, and avatar. You will also use the "CHANNEL" selection to select the text channel where the announcement will be made. I recomend creating an #announcement channel for all relevent postings. 
+This is the profile configuration for the profile that will post the anouncment of a new Instagram post. You may edit the profile name, and avatar. You will also use the "CHANNEL" selection to select the text channel where the announcement will be made. I recommend creating an #announcement channel for all relevent postings. 
 
 Once that is created, save relevent changes. We will return to this window later to retreave the "Webhook URL". **NOTE THE WEBHOOK URL MUST BE KEPT CONFIDENTIAL, AS ANY USER WITH THIS LINK CAN POST TO THE CHANNEL, IGNORING PRIVALAGES**
 
@@ -40,15 +40,15 @@ Please log into your ifttt account - from here, you can press "Create" on the to
 
 ![image](https://user-images.githubusercontent.com/79415636/110518478-0ba2c100-8104-11eb-973c-4ac35bf802f5.png)
 
-You will be presented with the below screen: 
+You will be presented with the screen below: 
 
 ![image](https://user-images.githubusercontent.com/79415636/110518842-89ff6300-8104-11eb-935f-75c4fb4e5c2c.png)
 
-From this screen, select "If This". You will be presented with the below: 
+From this screen, select "If This". You will be presented with below: 
 
 ![image](https://user-images.githubusercontent.com/79415636/110518902-a13e5080-8104-11eb-983e-1136540f44f4.png)
 
-Please such for "instagram" in the search service field, as shown below:
+Please search for "instagram" in the search service field, as shown below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110518993-badf9800-8104-11eb-8f45-898715b19d74.png)
 
@@ -64,7 +64,7 @@ From here you will chose another service, please input "webhook" as below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110519779-9f28c180-8105-11eb-89e2-16fb57f1f776.png)
 
-Please select the "Make a web request" option. you will then be presented with the below screen: 
+Please select the "Make a web request" option. you will then be presented with the screen below: 
 
 ![image](https://user-images.githubusercontent.com/79415636/110520038-e44cf380-8105-11eb-9164-41c66f230564.png)
 
@@ -72,7 +72,7 @@ Please leave this screen open, and return to Discord.
 
 ## Step 3 - Retrive and modify webhook
 
-Return to the integrations section on discord and open your webhooks. Your webook should be saved here, click on it and press "Copy Webhook URL"
+Return to the integrations section on discord and open your webhooks. Your webhook should be saved here, click on it and press "Copy Webhook URL"
 
 Before we paste it into the appropriate location, we will need to modify this link to ensure it runs correctly.
 
@@ -93,7 +93,7 @@ This will ensure the webhook will work correctly. More info can be found on http
 
 ## Step 4 - Create webhook request
 
-Once you have modifyed your webhook URL, return to your ifttt page and paste the **full modified link** into the url section. Please ensure not spaces or any other modification then the one noted above are present, else the link will not work.
+Once you have modified your webhook URL, return to your ifttt page and paste the **full modified link** into the url section. Please ensure not spaces or any other modification then the one noted above are present, else the link will not work.
 
 Once created, select "POST" from the Method section and "application/json" from the Content Type section, as shown below:
 
