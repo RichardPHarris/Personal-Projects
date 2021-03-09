@@ -108,3 +108,6 @@ Once you have compleated the above, past the blow code into the "Body" section a
 
 ![image](https://user-images.githubusercontent.com/79415636/110521692-f596ff80-8107-11eb-9e12-426ad930b9f1.png)
 
+- URL is the link for your post
+- Caption is the post caption
+- SourceUrl is the image posted
