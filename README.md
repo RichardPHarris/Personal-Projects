@@ -13,5 +13,5 @@ To guide a user through the process of sending automated notifications on discor
 - Discord server with appropriate privalages to manage text channels and webhooks 
 - Instagram account 
 
-### Of benefit but not required
+### Beneficial but not required
 -Knowledge of json post method
