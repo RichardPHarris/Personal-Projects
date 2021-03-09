@@ -5,4 +5,13 @@ With Instagram having proven time and again to be a key player in the social med
 
 
 ## Project goals
-To guide a user through the process of sending automated notifications on discord about a new Instagram photo post on their Instagram page
+To guide a user through the process of sending automated notifications on discord about a new Instagram photo post on their Instagram page.
+
+## Prerequisites 
+- ifttt.com account 
+- Discord account
+- Discord server with appropriate privalages to manage text channels and webhooks 
+- Instagram account 
+
+### Of benefit but not required
+-Knowledge of json post method
