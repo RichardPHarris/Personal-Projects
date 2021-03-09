@@ -60,6 +60,9 @@ At this point you will be asked to sign into your instagram account, please do s
 
 Once compleated, you will be sent back to the "create your own" screen, from here please click "*then that*" 
 
+From here you will chose another service, please input "webhook" as below:
+
+![image](https://user-images.githubusercontent.com/79415636/110519779-9f28c180-8105-11eb-89e2-16fb57f1f776.png)
 
 
 
