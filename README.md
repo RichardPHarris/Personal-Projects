@@ -114,3 +114,22 @@ Once you have compleated the above, past the blow code into the "Body" section a
 
 If you have an understanding of json, feel free to edit this as you see fit, more infomation can be found on this discord document section here: https://discord.com/developers/docs/resources/webhook.
 
+Once compleated, select "Create Action", then click "Create".
+
+## Step 5 - Test
+
+From here you can now test to see if your applet is working correctly. Post a test image on your instagram page and wait until the applet pulls fron instagram. Alternatily you can click "Check Now" on the applet screen as below to check instantly for a new image: 
+
+![image](https://user-images.githubusercontent.com/79415636/110522252-9d143200-8108-11eb-950e-31f29cf3d9c6.png)
+
+Once the applet locates the image, It will push a notification to the selected channel on discord as shown below:
+
+![image](https://user-images.githubusercontent.com/79415636/110522579-f3817080-8108-11eb-96f3-70210129398b.png)
+
+- A black image has been used for testing
+- "Test Caption" is the post Caption
+
+
+
+
+
