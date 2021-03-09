@@ -52,6 +52,12 @@ Please such for "instagram" in the search service field, as shown below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110518993-badf9800-8104-11eb-8f45-898715b19d74.png)
 
+Upon clicking the instagram logo, you will be presented with the "Choose a trigger" , click "Any new photo by you" as below: 
+
+![image](https://user-images.githubusercontent.com/79415636/110519437-3a6d6700-8105-11eb-863f-cb2009b0c8eb.png)
+
+At this point you will be asked to sign into your instagram account, please do so.
+
 
 
 
