@@ -31,3 +31,14 @@ On the left of the screen you will see a list of server setting catagorys, selec
 This is the profile configuration for the profile that will post the anouncment of a new Instagram post. You may edit the profile name, and avatar. You will also use the "CHANNEL" selection to select the text channel where the announcement will be made. I recomend creating an #announcement channel for all relevent postings. 
 
 Once that is created, save relevent changes. We will return to this window later to retreave the "Webhook URL". **NOTE THE WEBHOOK URL MUST BE KEPT CONFIDENTIAL, AS ANY USER WITH THIS LINK CAN POST TO THE CHANNEL, IGNORING PRIVALAGES**
+
+## Set 2 - Create ifttt Applet
+
+To enable us to track when a new post is created on Instagram, we will utalize an ifttt applet. 
+
+Please log into your ifttt account - from here, you can press "Create" on the top left of the screen, as shown below:
+
+![image](https://user-images.githubusercontent.com/79415636/110518478-0ba2c100-8104-11eb-973c-4ac35bf802f5.png)
+
+
+
