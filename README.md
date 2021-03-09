@@ -64,6 +64,31 @@ From here you will chose another service, please input "webhook" as below:
 
 ![image](https://user-images.githubusercontent.com/79415636/110519779-9f28c180-8105-11eb-89e2-16fb57f1f776.png)
 
+Please select the "Make a web request" option. you will then be presented with the below screen: 
+
+![image](https://user-images.githubusercontent.com/79415636/110520038-e44cf380-8105-11eb-9164-41c66f230564.png)
+
+Please leave this screen open, and return to Discord. 
+
+## Step 3 - Retrive and modify webhook
+
+Return to the integrations section on discord and open your webhooks. Your webook should be saved here, click on it and press "Copy Webhook URL"
+
+Before we paste it into the appropriate location, we will need to modify this link to ensure it runs correctly.
+
+To modify this link, simply paste it into a word processer of your choice and make the following change:
+
+Replace the 
+
+```
+discord.com
+```
+with
+
+```
+discord-ifttt.now.sh
+```
+
 
 
 
