@@ -89,6 +89,7 @@ with
 discord-ifttt.now.sh
 ```
 
+This will ensure the webhook will work correctly. More info can be found on https://discord-ifttt.now.sh/.
 
 
 
