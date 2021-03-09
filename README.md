@@ -91,5 +91,20 @@ discord-ifttt.now.sh
 
 This will ensure the webhook will work correctly. More info can be found on https://discord-ifttt.now.sh/.
 
+## Step 4 - Create webhook request
 
+Once you have modifyed your webhook URL, return to your ifttt page and paste the **full modified link** into the url section. Please ensure not spaces or any other modification then the one noted above are present, else the link will not work.
+
+Once created, select "POST" from the Method section and "application/json" from the Content Type section, as shown below:
+
+![image](https://user-images.githubusercontent.com/79415636/110521556-c97b7e80-8107-11eb-8070-aa5fd2c0aeff.png)
+
+Once you have compleated the above, past the blow code into the "Body" section as shown: 
+
+```
+{ "content" : "Hi All, Check out our new post on Instagram below!!\r\r{{Url}}\r\r{{Caption}}\r\r {{SourceUrl}}"
+}
+```
+
+![image](https://user-images.githubusercontent.com/79415636/110521692-f596ff80-8107-11eb-9e12-426ad930b9f1.png)
 
