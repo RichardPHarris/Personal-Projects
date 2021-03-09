@@ -130,6 +130,7 @@ Once the applet locates the image, It will push a notification to the selected c
 - "Test Caption" is the post Caption
 
 
+Congratulations, Now any time you create an Instagram post, your discord commiunity will be notified!
 
 
 
