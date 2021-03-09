@@ -58,6 +58,8 @@ Upon clicking the instagram logo, you will be presented with the "Choose a trigg
 
 At this point you will be asked to sign into your instagram account, please do so.
 
+Once compleated, you will be sent back to the "create your own" screen, from here please click *then that* 
+
 
 
 
