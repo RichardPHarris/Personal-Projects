@@ -111,3 +111,6 @@ Once you have compleated the above, past the blow code into the "Body" section a
 - URL is the link for your post
 - Caption is the post caption
 - SourceUrl is the image posted
+
+If you have an understanding of json, feel free to edit this as you see fit, more infomation can be found on this discord document section here: https://discord.com/developers/docs/resources/webhook.
+
