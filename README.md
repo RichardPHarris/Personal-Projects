@@ -14,4 +14,4 @@ To guide a user through the process of sending automated notifications on discor
 - Instagram account 
 
 ### Beneficial but not required
--Knowledge of json post method
+- Knowledge of json post method
