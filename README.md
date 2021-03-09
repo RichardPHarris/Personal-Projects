@@ -133,4 +133,7 @@ Once the applet locates the image, It will push a notification to the selected c
 Congratulations, Now any time you create an Instagram post, your discord commiunity will be notified!
 
 
+### Referances
+
+discord-ifttt.now.sh. (n.d.). discord-ifttt. [online] Available at: https://discord-ifttt.now.sh/ [Accessed 9 Mar. 2021]. 
 
