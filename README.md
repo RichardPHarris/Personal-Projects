@@ -102,7 +102,7 @@ Once created, select "POST" from the Method section and "application/json" from 
 Once you have compleated the above, past the blow code into the "Body" section as shown: 
 
 ```
-{ "content" : "Hi All, Check out our new post on Instagram below!!\r\r{{Url}}\r\r{{Caption}}\r\r {{SourceUrl}}"
+{ "content" : "Hi All, Check out our new post on Instagram below!!\r\r<<<{{Url}}>>>\r\r<<<{{Caption}}>>>\r\r<<<{{SourceUrl}}>>>"
 }
 ```
 
